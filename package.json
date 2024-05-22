@@ -1,0 +1,23 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "work Ubuntu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AnastasiyaSB/hexlet-js.git"
+  },
+  "keywords": [
+    "456556"
+  ],
+  "author": "Asya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnastasiyaSB/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/AnastasiyaSB/hexlet-js#readme"
+}
