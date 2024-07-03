@@ -1,3 +1,2 @@
-console.log("Hello, world!");
-import _ from "lodash";
-console.log(_.last(["one", "two"]));
+import sayHello from './src/index.js';
+sayHello();
